@@ -1,9 +1,9 @@
 ## Olá! Chamo Enzo Ulitzka Bisin, e aqui no GitHub, compartilho alguns projetos e estudos que estou desenvolvendo ao longo da minha formação.
 
 Sobre mim:
-- 📚 Graduando Engenharia de Computação
+- 🎓Graduando Engenharia de Computação
 - 🏢 Área de atuação profissional: Aprendiz administrativo
-- 🌱 Aprimorando conhecimentos: HTML, CSS, C e SQL
+- 📚 Aprimorando conhecimentos: HTML, CSS, C e SQL
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EnzoBisin&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=EnzoBisin&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)
 
